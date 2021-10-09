@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello World
+
+My name is Jonathan Vosolo and I am a Data Analyst.
+I analyze and translate data into valuable and comprehensive insights.
+My tools for data projects include Python, R language, SQL, Power BI and Advanced Spreadsheet (google spreadsheet and Excel).
+I hold a Bachelor of Science degree (Business Information Technology, Kenya Methodist University).
