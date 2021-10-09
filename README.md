@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 My name is Jonathan Vosolo and I am a Data Analyst.
 
-I analyze and translate data into valuable and comprehensive insights.
-
-My tools for data projects include Python, R language, SQL, Power BI and Advanced Spreadsheet (google spreadsheet and Excel).
+I am currently working on:
+- Data Analysis with Python (Pandas, Plotly, ggplot, sqlalchemy)
+- Data Analysis with R language (tidyr, dplyr, ggplot2)
+- Data Analysis with SQL (MySQL, PostreSQL)
